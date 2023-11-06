@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang-fr>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BloomPetals</title>
+    <meta name="description" content="contact">
+    <link rel="icon" href="image/icone fleur.jpg" type="image/x-icon">
+
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <header>
+        <nav class="navigations">
+            <a href="index.html" class="homes">Home</a>
+            <a href="Réalisations.html" class="realisationss"> Réalisations</a>
+            <a href="entreprise.html" class="entreprise"> Entreprise</a>
+            <input id="searchbar" onkeyup="Recherche()" type="text" name="search" placeholder="Recherche"
+                class="recherches">
+        </nav>
+    </header>
+    <main>
+        <h1 class="formulaire">Contactez-nous</h1>
+    <form action="formulaire de contact" method="post">
+        <label for="Civilité" class="civile"> Civilité :</label>
+        <select id="Civilité" name="Civilité">
+            <option value="Mr" class="mr">Mr</option>
+            <option value="Mme" class="mr">Mme</option>
+        
+        </select><br><br>
+
+        <label for="prenom"class="mr">Prénom :</label>
+        <input type="text" id="prenom" name="prenom" required><br><br>
+
+        <label for="nom"class="mr">Nom :</label>
+        <input type="text" id="nom" name="nom" required><br><br>
+
+
+        <label for="Rue"class="mr">Rue</label>
+        <input type="Rue" id="Rue" name="Rue" required><br><br>
+
+        <label for="Ville"class="mr">Ville</label>
+        <input type="Ville" id="Ville" name="Ville" required><br><br>
+
+
+         <label for="adresse Postale"class="mr">Code Postale</label>
+         <input type="adresse Postale" id="adresse Postale" name="adresse Postale" required><br><br>
+
+        <label for="email"class="mr">Email :</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="message"class="mr">Message :</label><br>
+        <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
+        
+        <input type="checkbox" name="politique_confidentialite" id="politique_confidentialite" required label for="politique_confidentialite" class="mr"> J'accepte la politique de confidentialité</label><br><br>
+
+        <input type="submit" value="Envoyer">
+    </form>
+<div>
+
+
+    </main>
+    <footer></footer>
+   </body>

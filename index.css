@@ -13,7 +13,7 @@ body {
     flex-direction: row;
     justify-content: space-around;
     align-items: space-between;
-    background-color: rgba(135, 20, 153, 0.973);
+    background-color: rgba(1, 118, 50, 0.973);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -43,7 +43,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgb(59, 0, 59);
+    color: rgb(0, 121, 40);
 }
 
 .apropos {
@@ -69,7 +69,7 @@ body {
     justify-content: space-around;
     align-items: space-between;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgb(194, 1, 152);
+    color: rgb(1, 194, 1);
 }
 
 .description {
@@ -85,7 +85,7 @@ body {
 
 .engagements {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(202, 0, 158);
+    color: rgb(13, 202, 0);
 
 }
 
@@ -107,21 +107,21 @@ body {
     flex-direction: row;
     justify-content: space-around;
     align-items: space-between;
-    background-color: rgba(236, 145, 250, 0.973);
+    background-color: rgba(0, 169, 11, 0.973);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .creativité {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: large;
-    color: rgb(199, 0, 156);
+    color: rgb(13, 199, 0);
 
 }
 
 .equipe {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: larger;
-    color: rgb(190, 2, 150);
+    color: rgb(2, 190, 24);
 }
 
 .personel {
@@ -135,12 +135,12 @@ body {
 .droit {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: larger;
-    color: rgb(169, 1, 133);
+    color: rgb(26, 169, 1);
 }
 
 .nosrealisation {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(184, 0, 144);
+    color: rgb(0, 184, 55);
 }
 
 .pot1 {
@@ -162,11 +162,11 @@ body {
     align-items: center;
 }
 .formulaire{
-   color: rgb(193, 0, 151);
+   color: rgb(29, 219, 70)
 }
 .civile{
-   color: rgb(197, 0, 154);
+   color: rgb(28, 215, 81)
 }
 .mr{
-   color: rgb(190, 0, 149);
+   color: rgb(25, 212, 59)
 }
